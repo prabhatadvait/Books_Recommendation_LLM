@@ -58,8 +58,6 @@ A powerful **Book Recommendation System** leveraging **Large Language Models (LL
 This project is **open-source** and available under the **MIT License**.
 
 ---
-## 🤝 Contributing
-Contributions are welcome! Please check the **CONTRIBUTING.md** for guidelines.
 
 ---
 ## 📬 Contact
